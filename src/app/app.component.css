@@ -45,16 +45,16 @@ text-align: center;
     white-space: initial;
 }
 .main{
-    width: 83%;
+    width: 77%;
 }
 .customer{
     border-collapse: collapse;
-    margin: 2 auto;
-    width: 90%;
+    margin: 6 auto;
+    width: 96%;
 }
 th,td{
     border: 1px solid #ddd;
-    padding: 8px;
+    padding: 10px;
     white-space: pre-wrap;
     word-break: break-word;
 }
@@ -105,7 +105,7 @@ th,td{
     padding-left: 2px;
 }
 .ins{
-    padding-left: 6px; 
+    padding-left: 0.01%; 
     font-style: normal;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size:0.5cm;
