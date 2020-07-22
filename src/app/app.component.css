@@ -1,0 +1,101 @@
+.data{
+color:darkgreen;
+text-align: center;
+}
+.head{
+    color: blue;
+    text-align: center;
+}
+.sand
+{
+    text-decoration: darkslateblue;
+    font-weight: bold;
+    font-size: x-large;
+    padding-left: 70px;
+}
+.about
+{
+    padding-left: 330px;
+    font-weight: bold;
+    font-size: large;
+    padding-top: 30px;
+}
+.in
+{
+    padding-left: 330px; 
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:0.5cm;
+}
+.qu
+{
+    padding-left: 30px; 
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:0.5cm;
+    padding-top: 5px;
+}
+.p{
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:0.5cm;
+    padding-left:2px;
+}
+.customer{
+    border-collapse: collapse;
+    padding-top: 0px;
+}
+th,td{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+.desc
+{
+    padding-top: 1px;
+}
+.support
+{
+    padding-top: 1px;
+}
+.c
+{
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:0.5cm;
+    margin-top: 1px;
+}
+.int
+{
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:0.5cm;
+}
+.cards
+{
+    width: 100%;
+    padding-left: 0%;
+    padding-right: 0%;
+    height: 60px;
+    color: #000;
+    background-color: darkslateblue;
+
+}
+.card{
+    position: fixed;
+    width: 100%;
+}
+.sands
+{
+    color: floralwhite;
+    padding-left: 30px;
+}
+.ins{
+    padding-left: 6px; 
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:0.5cm;
+}
+.cus
+{
+    padding-top: 0.01px;
+}
